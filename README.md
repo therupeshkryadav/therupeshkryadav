@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvMjAwLWFlLXRvbmctMDMwMzAuanBn.jpg?s=MoDXv9BT6gvxuHWOpr6cFZF7dz5vzoaeclzjN8AFab4">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhsingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhsingh2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therupeshkryadav&label=Profile%20views&color=0e75b6&style=flat" alt="therupeshkryadav" /> </p>
 
 - 🌱 I’m currently learning *Android*
 
 - 💬 Ask me about *Android,Kotlin*
 
-- 📫 How to reach me *upesh.official484@gmail.com*
+- 📫 How to reach me *rupesh.official484@gmail.com*
 
 - ⚡ Fun fact *I love going to the GYM*
 
