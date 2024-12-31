@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm Rupesh Kumar Yadav</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvMjAwLWFlLXRvbmctMDMwMzAuanBn.jpg?s=MoDXv9BT6gvxuHWOpr6cFZF7dz5vzoaeclzjN8AFab4">
+# Hello there 👋 I'm Rupesh Kumar Yadav!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therupeshkryadav&label=Profile%20views&color=0e75b6&style=flat" alt="therupeshkryadav" /> </p>
+I'm a dedicated Android developer with a passion for crafting high-quality, user-focused applications. Proficient in Kotlin and Jetpack Compose, I specialize in building modern, scalable apps with clean architecture. My expertise includes implementing advanced dependency injection frameworks like Koin and Dagger Hilt, ensuring efficient, maintainable, and testable codebases.
 
-- 🌱 I’m currently learning *Android*
+With a strong focus on delivering intuitive and seamless user experiences, I thrive on exploring new tools and techniques in the ever-evolving Android ecosystem. From complex problem-solving to optimizing app performance, I’m committed to pushing the boundaries of what's possible in Android development. Let’s innovate and shape the future of mobile technology together!
 
-- 💬 Ask me about *Android,Kotlin,Jetpack Compose*
+🌱 I'm currently working on Android, Jetpack Compose, Kotlin Multiplatform.
 
-- 📫 How to reach me *rupesh.official484@gmail.com*
+## 💻 Tech Stack
+![Kotlin](https://img.shields.io/badge/kotlin-43853D.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/jetpack_compose-39457E.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/KMM-35495E?&style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-- ⚡ Fun fact *I love going to the GYM*
+## ☁ GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therupeshkryadav&show_icons=true&theme=prussian&locale=en&layout=compact" alt="therupeshkryadav" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=therupeshkryadav&show_icons=true&theme=prussian&hide_border=false&include_all_commits=true&count_private=false" alt="therupeshkryadav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therupeshkryadav&show_icons=true&theme=prussian&locale=en&layout=compact" alt="therupeshkryadav" /></p>
+
+- 💬 Ask me about **Android, Kotlin, XML, Jetpack Compose and Kotlin Multiplatform**
+
+- 📫 How to reach me **rupesh.official484@gmail.com**
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/therupeshkryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="therupeshkryadav" height="30" width="40" /></a>
+  <a href="https://twitter.com/irupeshkryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irupeshkryadav" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/therupeshkryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="therupeshkryadav" height="30" width="40" /></a>
+  <a href="https://instagram.com/therupeshkryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therupeshkryadav" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therupeshkryadav&show_icons=true&locale=en&layout=compact" alt="therupeshkryadav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therupeshkryadav&show_icons=true&locale=en" alt="therupeshkryadav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therupeshkryadav&" alt="therupeshkryadav" /></p>
+[![](https://visitcount.itsvg.in/api?id=pushpalroy&icon=0&color=1)](https://visitcount.itsvg.in)
