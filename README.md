@@ -28,4 +28,4 @@ With a strong focus on delivering intuitive and seamless user experiences, I thr
   <a href="https://instagram.com/creator.rupesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creator.rupesh" height="30" width="40" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=pushpalroy&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=therupeshkryadav&icon=0&color=1)](https://visitcount.itsvg.in)
