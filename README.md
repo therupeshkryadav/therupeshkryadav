@@ -25,7 +25,6 @@ With a strong focus on delivering intuitive and seamless user experiences, I thr
 <p align="left">
   <a href="https://twitter.com/irupeshkryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irupeshkryadav" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/therupeshkryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="therupeshkryadav" height="30" width="40" /></a>
-  <a href="https://instagram.com/creator.rupesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="creator.rupesh" height="30" width="40" /></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=therupeshkryadav&icon=0&color=1)](https://visitcount.itsvg.in)
