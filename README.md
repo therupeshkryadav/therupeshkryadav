@@ -19,7 +19,7 @@ With a strong focus on delivering intuitive and seamless user experiences, I thr
 
 - 💬 Ask me about **Android, Kotlin, XML, Jetpack Compose and Kotlin Multiplatform**
 
-- 📫 How to reach me **rupesh.official484@gmail.com**
+- 📫 How to reach me **rupeshkryadav484@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
