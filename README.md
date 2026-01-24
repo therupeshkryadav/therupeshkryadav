@@ -27,7 +27,7 @@
 ---
 
 ## 🔥 **Key Projects**
-[![FastAPI Backend](https://github-readme-stats.vercel.app/api/pin/?username=therupeshkryadav&repo=fastapi-job-switch-2026&theme=radical)](https://github.com/therupeshkryadav/fastapi-job-switch-2026)
+[![FastAPI Backend](https://github-readme-stats.vercel.app/api/pin/?username=therupeshkryadav&repo=backend-learning-track&theme=radical)](https://github.com/therupeshkryadav/backend-learning-track)
 
 ---
 
